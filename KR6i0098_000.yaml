@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0098/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天台分門圖
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2824.xml
+    old_id: T85n2824
+hash: sha256:9f25ba2b523d55629e13548c4f0ef01488016671c3f36ef802b7a69e595af6c7
