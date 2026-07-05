@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6i0098_000.yaml, hash: 'sha256:9f25ba2b523d55629e13548c4f0ef01488016671c3f36ef802b7a69e595af6c7'}
-  - {seq: 1, filename: KR6i0098_001.yaml, hash: 'sha256:ce4d0cdfeba7a1e81063bfd5ba3b78992e6a4c485cba06fd78dabfb42ed27f0a'}
+  - {seq: 1, filename: KR6i0098_001.yaml, hash: 'sha256:a53ebb93bfb18575805776071e10f275ececea233fcc54a007b8b8d85aa3054b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0098_001.markers.yaml, hash: 'sha256:826f87f5f8a8ef994c0acfc3b632d463d8be9c2aa1c8d90ffb3b7abba808461c'}
+  - {seq: 0, role: markers, filename: assets/KR6i0098_000.markers.yaml, hash: 'sha256:43c360673d8ad57f59189ec880acfd9d969ec1e2ce2fa95b85599eda5c892811'}
+  - {seq: 1, role: markers, filename: assets/KR6i0098_001.markers.yaml, hash: 'sha256:0f584fc1c5dab0ec5199177d506c4bfe857b1bc9c13c5d4087436620139c3c0d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 天台分門圖
   type: juan
   level: 1
-hash: sha256:aad49a71d898362f414109d7ff53bba067b2be7c3050a4dda00814cbfa357b4f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:73ecccc39b82d8fc6876fa4c6384291d9cfa4e5d0946ed1444fde2072343f089
 editions:
 - short: T
