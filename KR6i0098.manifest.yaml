@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0098/v1
 canonical_location: https://kanripo.org/bkk/KR6i0098/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 天台分門圖
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6i0098_000.yaml, hash: 'sha256:9f25ba2b523d55629e13548c4f0ef01488016671c3f36ef802b7a69e595af6c7'}
-  - {seq: 1, filename: KR6i0098_001.yaml, hash: 'sha256:a53ebb93bfb18575805776071e10f275ececea233fcc54a007b8b8d85aa3054b'}
+  - {seq: 1, filename: KR6i0098_001.yaml, hash: 'sha256:427da015ffa15ef9cf9dd74183e989c94a2733e247a57ef7777dab960c2cc636'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0098_000.markers.yaml, hash: 'sha256:43c360673d8ad57f59189ec880acfd9d969ec1e2ce2fa95b85599eda5c892811'}
-  - {seq: 1, role: markers, filename: assets/KR6i0098_001.markers.yaml, hash: 'sha256:0f584fc1c5dab0ec5199177d506c4bfe857b1bc9c13c5d4087436620139c3c0d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0098_001.markers.yaml, hash: 'sha256:bcc655ff50adfdc2555764786d370857758f604d466c944c5a261b85d8f8b38a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 天台分門圖
   type: juan
   level: 1
-hash: sha256:73ecccc39b82d8fc6876fa4c6384291d9cfa4e5d0946ed1444fde2072343f089
+hash: sha256:c09dec22866727895fdd6e18e6da1ca9b54071c2251a9e825538764b2609cbb6
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
